@@ -170,3 +170,6 @@ test_db.sqlite3
 
 # Mac Binary
 *.DS_Store
+
+# Proj specific
+.gradio/
