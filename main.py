@@ -29,4 +29,4 @@ def gradio_ui():
 
 if __name__ == "__main__":
     app = gradio_ui()
-    app.launch()
+    app.launch(share=True)
