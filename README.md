@@ -6,7 +6,7 @@ sdk_version: 5.8.0
 ---
 # RAG project for NLP course
 
-1. Task this project aims to translate from English to French
+1. Task: this project aims to translate from English to French
 
 2. Hosted service: 
  - huggingface spaces:  https://huggingface.co/spaces/Rmajor/rag
